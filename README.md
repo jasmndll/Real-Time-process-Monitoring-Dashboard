@@ -16,4 +16,4 @@ python ui.py
 Python 3.8+
 
 ## DATA WORKFLOW
-<img width="1200" height="1134" alt="dashboard_workflow_diagram" src="https://github.com/user-attachments/assets/856e4888-03b1-47c6-9d01-a63f8d380239" />
+<img width="600" height="600" alt="dashboard_workflow_diagram" src="https://github.com/user-attachments/assets/856e4888-03b1-47c6-9d01-a63f8d380239" />
